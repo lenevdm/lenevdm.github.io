@@ -10,13 +10,13 @@ I’m tenacious, analytical, creative, and extremely curious about the world aro
 I have multiple interests, and will never stop learning. This is probably why I ended up working in tech 🤓
 
 ## Research interests
-I'm currently working on a final year research project focusing on Machine Learning techniques for fraud detection which is taking up the bulk of my time outside of work.
+I've recently completed a final year research project focusing on Machine Learning techniques for fraud detection. Check out a short demo and discussion of my findings!
 
-Other things I'm learning about:
-- Risk analytics
-- Analytics Development Lifecycle
-- Technology tools and learning
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/-QGA6fVaQMI" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Instructional design and writing portfolio
 While I no longer work full time on instructional design projects, you can see examples of my work designing learning experiences and resources in my [portfolio](https://sites.google.com/view/lvdmportfolio/?usp=sharing).
-
