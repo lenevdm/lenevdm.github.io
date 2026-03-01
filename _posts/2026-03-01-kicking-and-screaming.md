@@ -12,7 +12,7 @@ I’ve never thought of myself as leadership material, and in every career chat 
 
 ![A sleepy puppy relaxing in a pond with text: unbothered, moisturized, happy, in my lane, focused, flourishing](/assets/images/in_my_lane.jpg)
 
-My first thought was I’d be a horrible micromanager, (I have very exacting standards) and my second thought, once I’d run a few loops in my mind was… do I really want to move away from the work I’d just spent so many years of my life pursuing in favour of management? As someone who didn’t start out in tech and has painstakingly built a hard-won technical skillset, this gave me serious pause.
+My first thought was _I’d be a horrible micromanager_, (I have very exacting standards) and my second thought, once I’d run a few loops in my mind was… _do I really want to move away from the work I’d just spent so many years of my life pursuing in favour of management?_ As someone who didn’t start out in tech and has painstakingly built a hard-won technical skillset, this gave me serious pause.
 
 But, the allure of the problem got me in the end. The data function had some great, talented people, but wasn’t set up for success. The company had a real desire to be data-driven, but the analytics team was stuck in service desk hell. I’d been vocal about this, and tried in my way to make things better as an analyst. The old restlessness in me stirred (perhaps also some hubris). This was a real hard problem to solve, and this role might give me the scope I needed to attempt it.
 
