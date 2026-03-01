@@ -1,5 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-10-02T22:04:09+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>Field notes of a curious person.
-</subtitle><author><name>Lené van der Merwe</name></author><entry><title type="html">Adventures in yak shaving</title><link href="http://localhost:4000/2024/10/02/yak-shaving.html" rel="alternate" type="text/html" title="Adventures in yak shaving" /><published>2024-10-02T00:00:00+02:00</published><updated>2024-10-02T00:00:00+02:00</updated><id>http://localhost:4000/2024/10/02/yak-shaving</id><content type="html" xml:base="http://localhost:4000/2024/10/02/yak-shaving.html"><![CDATA[<p>I’m not one of those people who started coding when they were 9 and have taken computers apart and rebuilt them into cyborgs. When I was 9 I staged elaborate ritual sacrifices of my Barbies and got bullied by the mean girls at school like any respectable tween girl. I learned about motherboards in high school, and wrote my first line of code willingly in 2017 when I was approaching 30. (Yes, it was to print hello world in JavaScript, now get off my lawn.) This is a random way to start a story, but it’s to show that I am an idiot and generally don’t know what I’m doing until I learn the hard way.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-22T13:54:35+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>Field notes of a curious person.
+</subtitle><author><name>Lené van der Merwe</name></author><entry><title type="html">Adventures in prompt engineering: Claude; research supervisor</title><link href="http://localhost:4000/2024/11/16/claude.html" rel="alternate" type="text/html" title="Adventures in prompt engineering: Claude; research supervisor" /><published>2024-11-16T00:00:00+02:00</published><updated>2024-11-16T00:00:00+02:00</updated><id>http://localhost:4000/2024/11/16/claude</id><content type="html" xml:base="http://localhost:4000/2024/11/16/claude.html"><![CDATA[<p>Lately I’ve been interested in learning to get the best out of generative AI tools. I’ve signed up for a subscription to Anthropic’s Claude. These are some of my notes on using it as a tool for my academic writing in an ehtical way.</p>
+
+<p>Many universities seem to have taken the approach to place a blanket ban on generative AI tools like Claude. I think that’s quite stupid.</p>
+
+<p>(more stuff)</p>
+
+<h2 id="claude-projects">Claude projects</h2>
+<brief intro="" of="" what="" a="" project="" is="" and="" entails="">
+
+### Project level prompt
+xxx
+
+### Initial project knowledge artifacts
+xxx
+
+### Closing out a chat thread
+Claude can't rememeber knowledge across threads, and when a single chat thread becomes too long you consume too many credits plus performance degrades.
+
+To avoid those issues, I've decided to break the process up into one thread per chapter / phase of the report writing process. Ideally I don't want to have to try and explain everything that we covered in the previous chat in the first prompt of the new thread. 
+
+When closing out a thread, I ask Claude to summarize the session and output it as an artifact. I then add this summary document, as well as the draft chapter that resulted from that chat to the project knowledge base.
+
+Here is an exmaple of the final prompt for a chat thread:
+
+"Please write a summary document that I can hand over to someone so that they understand everything you worked on. Write it in a professional and informative manner and be thorough. Make sure to remove redundancies or old information. The summary document should be a markdown file. OUTPUT AS ARTIFACT."
+
+### Starting a new thread with context from past threads
+When starting a new thread, the first prompt I give Clause will contain some detailed context on what we will be working in this thread, and what the ideal output at the end of our session will be. Then I ask Claude to read through the summary document and the draft chapter in the knowledge base, referring to them by name.
+
+
+
+</brief>]]></content><author><name>Lené van der Merwe</name></author><summary type="html"><![CDATA[Lately I’ve been interested in learning to get the best out of generative AI tools. I’ve signed up for a subscription to Anthropic’s Claude. These are some of my notes on using it as a tool for my academic writing in an ehtical way.]]></summary></entry><entry><title type="html">CUDA GPU setup for Windows 11</title><link href="http://localhost:4000/2024/11/16/CUDA-gpu-setup.html" rel="alternate" type="text/html" title="CUDA GPU setup for Windows 11" /><published>2024-11-16T00:00:00+02:00</published><updated>2024-11-16T00:00:00+02:00</updated><id>http://localhost:4000/2024/11/16/CUDA-gpu-setup</id><content type="html" xml:base="http://localhost:4000/2024/11/16/CUDA-gpu-setup.html"><![CDATA[<h2 id="references-and-resources">References and resources</h2>
+<p>https://www.youtube.com/watch?v=IubEtS2JAiY&amp;ab_channel=deeplizard</p>]]></content><author><name>Lené van der Merwe</name></author><summary type="html"><![CDATA[References and resources https://www.youtube.com/watch?v=IubEtS2JAiY&amp;ab_channel=deeplizard]]></summary></entry><entry><title type="html">Adventures in yak shaving</title><link href="http://localhost:4000/2024/10/02/yak-shaving.html" rel="alternate" type="text/html" title="Adventures in yak shaving" /><published>2024-10-02T00:00:00+02:00</published><updated>2024-10-02T00:00:00+02:00</updated><id>http://localhost:4000/2024/10/02/yak-shaving</id><content type="html" xml:base="http://localhost:4000/2024/10/02/yak-shaving.html"><![CDATA[<p>I’m not one of those people who started coding when they were 9 and have taken computers apart and rebuilt them into cyborgs. When I was 9 I staged elaborate ritual sacrifices of my Barbies and got bullied by the mean girls at school like any respectable tween girl. I learned about motherboards in high school, and wrote my first line of code willingly in 2017 when I was approaching 30. (Yes, it was to print hello world in JavaScript, now get off my lawn.) This is a random way to start a story, but it’s to show that I am an idiot and generally don’t know what I’m doing until I learn the hard way.</p>
 
 <p>Anyway, it’s notoriously difficult to estimate how long tasks will take in software development. Fun toy projects you tackle on a Saturday morning included. Why is that? There are many reasons that people who are smarter than me have explained very eloquently. But let me tell you a story.</p>
 
