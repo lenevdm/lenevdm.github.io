@@ -59,7 +59,7 @@ minima:
     - { platform: github,         user_url: "https://github.com/lenevdm" }
   #  - { platform: gitlab,         user_url: "https://gitlab.com/jekyll" }
   #  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
-    - { platform: instagram,      user_url: "https://www.instagram.com/mother_of_scrapers" }
+  #  - { platform: instagram,      user_url: "https://www.instagram.com/mother_of_scrapers" }
   #  - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/lene-van-der-merwe" }
   #  - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
